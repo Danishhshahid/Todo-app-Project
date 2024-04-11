@@ -1,4 +1,4 @@
-#!/bin/env node
+#!/bin/usr/env node
 import inquirer from "inquirer";
 
 let Mylist : string[] = [];
