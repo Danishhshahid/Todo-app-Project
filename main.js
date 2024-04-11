@@ -1,3 +1,4 @@
+#!/bin/usr/env node
 import inquirer from "inquirer";
 let Mylist = [];
 let condition = true;
